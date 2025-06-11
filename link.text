@@ -1,0 +1,6 @@
+[
+  {
+    "initialUrl": "http://connectivitycheck.gstatic.com/generate_204",
+    "loginUrl": "https://aps1-omada-controller.tplinkcloud.com/static/portal/entry.html"
+  }
+]
